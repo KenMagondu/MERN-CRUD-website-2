@@ -2,7 +2,7 @@ import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import LoginScreen from './screens/LoginScreen';
 import logo from './logo.svg';
 import './App.css';
-
+// you can use bootstrap css
 //import './css/aos.css';
 import './css/bootstrap/bootstrap-grid.css';
 import './css/bootstrap-datepicker.css';
